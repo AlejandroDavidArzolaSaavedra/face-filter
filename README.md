@@ -1,11 +1,9 @@
-<h1 align="center">🤖Trabajo Final - VC Reconocimiento facial 24/25</h1>
+<h1 align="center">🤖Reconocimiento facial</h1>
 
 <div align="center">
 <img width="500px" src="assets/img/portada.png">
 </div>
-
-Se ha completado el **Trabajo final** para la asignatura **Visión por Computador**.  Reconocimiento Facial. Consiste en aplicar distintas tecnicas
-de recocimiento facial para poder reconocer personas.
+Reconocimiento Facial. Consiste en aplicar distintas tecnicas de recocimiento facial para poder reconocer personas.
 
 *Trabajo realizado por*:
 
@@ -32,46 +30,10 @@ de recocimiento facial para poder reconocer personas.
 
 ---
 
-## 🚀 Cómo empezar
-
-Para comenzar con el proyecto, sigue estos pasos:
-
-> [!NOTE]  
-> Debes de situarte en un environment configurado como se definió en el cuaderno de la práctica de [otsedom](https://github.com/otsedom/otsedom.github.io/blob/main/VC/P1/README.md#111-comandos-basicos-de-anaconda).
-
-### Paso 1: Abrir VSCode y situarse en el directorio:
-   
-   `C:\Users\TuNombreDeUsuario\anaconda3\envs\Trabajo_Final_VC
-   
-### Paso 2: Clonar y trabajar en el proyecto localmente (VS Code)
-1. **Clona el repositorio**: Ejecuta el siguiente comando en tu terminal para clonar el repositorio:
-   ```bash
-   git clone https://github.com/kratoscordoba7/Trabajo_Final_VC.git
-   ```
-2. Una vez clonado, todos los archivos han de estar situado en el environment del paso 1
-
-### Paso 3: Abrir Anaconda prompt y activar el environment:
-   ```bash
-   conda activate NombreDeTuEnvironment
-   ```
-
-### Paso 4: Instalación
-Para instalar estas librerías, ejecuta los siguientes comandos:
-
-```bash
-pip install opencv-contrib-python numpy scipy imutils pyttsx3 mysql-connector-python deap
-```
-o
-
-```bash
-pip install -r requirements.txt
-```
-Tras estos pasos debería poder ejecutar el proyecto localmente
-
 <h2>📋 Motivación/argumentación del trabajo</h2>
 
 <img align="left" width="200px" src="assets/img/model.png">  
-Nuestro trabajo de curso se centra en el <b>reconocimiento facial</b>, una temática que nos despierta <b>curiosidad</b> 🧐 debido al funcionamiento y comportamiento de las <b>aplicaciones típicas nativas en dispositivos móviles</b> 📱 de la última década. 
+Nuestro trabajo se centra en el <b>reconocimiento facial</b>, una temática que nos despierta <b>curiosidad</b> 🧐 debido al funcionamiento y comportamiento de las <b>aplicaciones típicas nativas en dispositivos móviles</b> 📱 de la última década. 
 <br><br>
 Consideramos que el <b>reconocimiento facial</b> es un área <b>fascinante</b> ✨ que permite aplicar <b>técnicas y metodologías avanzadas de visión por computador</b> , ofreciendo una <b>oportunidad única</b> para explorar y desarrollar <b>soluciones innovadoras</b>. 💡
 <br><br>
@@ -555,11 +517,6 @@ https://github.com/user-attachments/assets/0a20088e-7f82-4f6e-b100-78a7db3b75c6
 
 También puede verse el video dentro de `assets/video/video.mp4`
 
----
-
-
-> [!NOTE]  
-> Muchas gracias por las contribuciones de [otsedom](https://github.com/otsedom/otsedom.github.io/tree/main/VC) y José Ignacio Salas Cáceres.
 
 ---
 
@@ -579,10 +536,6 @@ También puede verse el video dentro de `assets/video/video.mp4`
 
 <img align="left" width="160" height="160" src="assets/img/face_final.png"></a>
 
-**Universidad de Las Palmas de Gran Canaria**  
-
-EII - Grado de Ingeniería Informática  
-Obra bajo licencia de Creative Commons Reconocimiento - No Comercial 4.0 Internacional
 
 Tienen total libertad para utilizar el código. Espero que este repositorio haya sido de utilidad. Al final, queriamos ver qué lográbamos alcanzar con los recursos disponibles.
 
