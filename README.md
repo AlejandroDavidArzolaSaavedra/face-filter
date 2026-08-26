@@ -501,20 +501,6 @@ Se emplea la selección por torneo como método para elegir a los mejores indivi
 En orden de relevancia, el segundo modelo con mejor comportamiento fue Eigenfaces, seguido por Fisherfaces, que mostró el rendimiento más bajo entre los tres. Por esta razón, el algoritmo da prioridad a los pesos asociados a LBPH, asignándoles una mayor influencia en el proceso de combinación de resultados.
 
 
-
-### Vídeo resumen de venta del trabajo
-
-
-
-https://github.com/user-attachments/assets/0a20088e-7f82-4f6e-b100-78a7db3b75c6
-
-
-
-[Enlace al video](https://cdn.glitch.global/e09a0fa9-a9d5-442b-a281-52be27442967/Video%20sin%20t%C3%ADtulo%20(1).mp4?v=1736192410934)
-
-También puede verse el video dentro de `assets/video/video.mp4`
-
-
 ---
 
 ## 📚 Fuentes y Tecnologías Utilizadas
