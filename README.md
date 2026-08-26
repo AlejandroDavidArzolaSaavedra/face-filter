@@ -1,8 +1,5 @@
 <h1 align="center">🤖Reconocimiento facial</h1>
 
-<div align="center">
-<img width="500px" src="assets/img/portada.png">
-</div>
 Reconocimiento Facial. Consiste en aplicar distintas tecnicas de recocimiento facial para poder reconocer personas.
 
 *Trabajo realizado por*:
